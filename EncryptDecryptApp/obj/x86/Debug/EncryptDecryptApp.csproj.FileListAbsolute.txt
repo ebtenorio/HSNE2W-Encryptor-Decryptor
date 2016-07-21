@@ -1,0 +1,19 @@
+c:\users\admin\documents\visual studio 2010\Projects\EncryptDecryptApp\EncryptDecryptApp\obj\x86\Debug\EncryptDecryptApp.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2010\Projects\EncryptDecryptApp\EncryptDecryptApp\obj\x86\Debug\EncryptDecryptApp.Form1.resources
+c:\users\admin\documents\visual studio 2010\Projects\EncryptDecryptApp\EncryptDecryptApp\obj\x86\Debug\EncryptDecryptApp.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2010\Projects\EncryptDecryptApp\EncryptDecryptApp\obj\x86\Debug\EncryptDecryptApp.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2010\Projects\EncryptDecryptApp\EncryptDecryptApp\bin\Debug\EncryptDecryptApp.exe
+c:\users\admin\documents\visual studio 2010\Projects\EncryptDecryptApp\EncryptDecryptApp\bin\Debug\EncryptDecryptApp.pdb
+c:\users\admin\documents\visual studio 2010\Projects\EncryptDecryptApp\EncryptDecryptApp\bin\Debug\PTISecuritySVC.dll
+c:\users\admin\documents\visual studio 2010\Projects\EncryptDecryptApp\EncryptDecryptApp\obj\x86\Debug\EncryptDecryptApp.exe
+c:\users\admin\documents\visual studio 2010\Projects\EncryptDecryptApp\EncryptDecryptApp\obj\x86\Debug\EncryptDecryptApp.pdb
+C:\Users\admin\documents\visual studio 2010\Projects\EncryptDecryptApp\EncryptDecryptApp\bin\Debug\Crypt.dll
+C:\AgilitiNet Source\EncryptDecryptApp\EncryptDecryptApp\obj\x86\Debug\EncryptDecryptApp.exe
+C:\AgilitiNet Source\EncryptDecryptApp\EncryptDecryptApp\obj\x86\Debug\EncryptDecryptApp.pdb
+C:\AgilitiNet Source\EncryptDecryptApp\EncryptDecryptApp\bin\Debug\EncryptDecryptApp.exe
+C:\AgilitiNet Source\EncryptDecryptApp\EncryptDecryptApp\bin\Debug\EncryptDecryptApp.pdb
+C:\AgilitiNet Source\EncryptDecryptApp\EncryptDecryptApp\bin\Debug\Crypt.dll
+C:\AgilitiNet Source\EncryptDecryptApp\EncryptDecryptApp\bin\Debug\PTISecuritySVC.dll
+C:\AgilitiNet Source\EncryptDecryptApp\EncryptDecryptApp\obj\x86\Debug\EncryptDecryptApp.Form1.resources
+C:\AgilitiNet Source\EncryptDecryptApp\EncryptDecryptApp\obj\x86\Debug\EncryptDecryptApp.Properties.Resources.resources
+C:\AgilitiNet Source\EncryptDecryptApp\EncryptDecryptApp\obj\x86\Debug\EncryptDecryptApp.csproj.GenerateResource.Cache
